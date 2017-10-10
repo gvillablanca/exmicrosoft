@@ -1,0 +1,27 @@
+body {
+	/*background-color: #00FF00;*/
+	background-color: green;
+	text-align: center;
+}
+
+p{
+	font-size: 30px;
+	/*text-align: center;*/
+	color: #FF00FF;
+
+}
+
+img{
+	height: 400px;
+	width:300px;
+	border:2px dashed black;
+}
+h1{
+	color: red;
+}
+
+.link{
+	background-color: grey;
+	border: 1px dotted black;
+
+}
